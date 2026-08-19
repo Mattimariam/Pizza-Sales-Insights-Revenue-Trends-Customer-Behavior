@@ -1,0 +1,2 @@
+# Pizza-Sales-Insights-Revenue-Trends-Customer-Behavior
+This personal data analytics project analyzes pizza sales data to uncover revenue trends, customer ordering behavior, product performance, peak sales periods, and potential growth opportunities. Using SQL and Power BI, I transformed raw sales data into actionable insights that can support better pricing, menu decisions, and revenue strategies.
